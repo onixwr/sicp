@@ -3,7 +3,8 @@
 
 ## SICPリンク
 ### 本家
-[SICP Web Site](https://mitpress.mit.edu/sites/default/files/sicp/index.html)
+- [SICP Web Site](https://mitpress.mit.edu/sites/default/files/sicp/index.html)
+  - [SICP text contents](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book-Z-H-4.html#%_toc_start)
 ### 日本語訳
 - [計算機プログラムの構造と解釈 第二版](https://sicp.iijlab.net/)
   - 和田 英一氏版
